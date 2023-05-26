@@ -51,3 +51,5 @@ df_word_vectors = model.create_word_vector_dataframe()
 display(df_word_vectors)
 
 ```
+### Output Example
+![image](https://github.com/kittipat7/Word2Vec_from_scratch/assets/97491541/649f21ad-50aa-4a56-8540-f5fd95621f3e)
